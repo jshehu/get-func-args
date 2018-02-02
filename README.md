@@ -9,3 +9,5 @@ function f(a, b, { c, d = 2 }, e, f = 1) {
 }
 const args = getFuncArgs(f); // [ 'a', 'b', '{ c, d = 2 }', 'e', 'f = 1' ]
 ```
+
+New features soon (arguments formatting)

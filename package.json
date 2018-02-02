@@ -1,6 +1,6 @@
 {
   "name": "get-func-args",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -17,5 +17,13 @@
   "keywords": [
     "function",
     "arguments"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshehu/get-func-args.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jshehu/get-func-args/issues"
+  },
+  "homepage": "https://github.com/jshehu/get-func-args#readme"
 }
