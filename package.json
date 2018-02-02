@@ -1,0 +1,21 @@
+{
+  "name": "get-func-args",
+  "version": "1.0.2",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.16.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeton Shehu",
+  "license": "ISC",
+  "description": "Get function arguments.",
+  "keywords": [
+    "function",
+    "arguments"
+  ]
+}
